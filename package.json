@@ -1,0 +1,23 @@
+{
+  "name": "firstautomation",
+  "version": "1.0.0",
+  "description": "its my first automation script with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravdesale/firstautomation.git"
+  },
+  "keywords": [
+    "automation",
+    "javascript"
+  ],
+  "author": "gauravdesale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gauravdesale/firstautomation/issues"
+  },
+  "homepage": "https://github.com/gauravdesale/firstautomation#readme"
+}
